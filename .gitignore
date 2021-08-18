@@ -1,0 +1,17 @@
+/node_modules
+
+secrets.*
+artifacts
+cache
+
+.openzeppelin
+
+.env
+.env.local
+
+yarn.lock
+package-lock.json
+
+coverage
+
+/merged
